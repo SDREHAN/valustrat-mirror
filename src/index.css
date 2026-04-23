@@ -26,10 +26,10 @@
     --muted: 220 14% 95%;
     --muted-foreground: 220 12% 40%;
 
-    /* Crimson accent */
-    --accent: 350 78% 48%;
+    /* Orange accent #FF5C00 */
+    --accent: 24 100% 50%;
     --accent-foreground: 0 0% 100%;
-    --accent-glow: 350 90% 60%;
+    --accent-glow: 30 100% 60%;
 
     --destructive: 0 84% 60%;
     --destructive-foreground: 0 0% 100%;
@@ -70,7 +70,7 @@
     --secondary-foreground: 0 0% 98%;
     --muted: 220 40% 14%;
     --muted-foreground: 220 15% 70%;
-    --accent: 350 80% 55%;
+    --accent: 24 100% 55%;
     --accent-foreground: 0 0% 100%;
     --border: 220 40% 18%;
     --input: 220 40% 18%;
